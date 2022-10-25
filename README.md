@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there!! 👋 I am a typical Software Engineer that drinks tons of coffee and enjoy learning new things in tech.
+When I am not behind my keyboard I am either coaching my baseball team or putting my Jeep in places it shouldn't be
 
 <!--
 **jaymz7783/jaymz7783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
